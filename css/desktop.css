@@ -1,0 +1,27 @@
+h2, .header-container__title{
+    font-size: 4rem;
+    line-height: 4.2rem;
+}
+p{
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+.header{
+    height: 44rem;
+}
+.header__logo{
+    margin: auto;
+    position: relative;
+    top: 24px;
+    width: 17.5rem;
+}
+.header-container{
+    height: 26rem;
+}
+.benefits__container{
+    flex-direction: row;
+}
+.banner__title h2{
+    position: relative;
+    top: 0;
+}

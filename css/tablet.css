@@ -1,0 +1,18 @@
+.coins-comissions__nav--rigth{
+    display: none;
+    height: 0;
+}
+.coins-comissions__nav--left{
+    display: none;
+    height: 0;
+}
+.show-comissions{/*************/
+    transform: translate3d(0,0,0);/*************/
+}
+.coins-comissions{
+    width: 100%;
+    justify-content: center;
+}
+.plans{
+    justify-content: center;
+}
